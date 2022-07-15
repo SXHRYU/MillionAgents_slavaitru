@@ -1,6 +1,6 @@
 # MillionAgents task
 
-The task was to parse any [detmir](https://www.detmir.ru/) catalogue with more than 500 items in it and process the data into a CSV. I decided to take [dolls]("https://www.detmir.ru/catalog/index/name/modelnye_kukly/") with 2500+ entries. For more on task you can look at `task.png`.
+The task was to parse any [detmir](https://www.detmir.ru/) catalogue with more than 500 items in it and process the data into a CSV. I decided to take [dolls](https://www.detmir.ru/catalog/index/name/modelnye_kukly/) with 2500+ entries. For more on task you can look at `task.png`.
 
 ## Navigation
 
